@@ -16,7 +16,9 @@ export default function Home() {
 
                     <div className="w-full md:w-1/3 px-4 ">
                         <div className="bg-white rounded-lg shadow-md">
-                            <p className=" text-black text-right font-semibold uppercase text-[4rem] ">Port<br />foli <br />o</p>
+                            <p className=" text-black text-right font-semibold uppercase text-[4rem] ">Port </p>
+                            <p className=" text-black text-right font-semibold uppercase text-[4rem] ">foli </p>
+                            <p className=" text-black text-right font-semibold uppercase text-[4rem] ">o</p>
                         </div>
                     </div>
 
@@ -24,10 +26,10 @@ export default function Home() {
                         <div className="bg-white rounded-lg p-4 shadow-md">
                             <div className="flex">
                                 <div className="w-full md:w-1/2 mx-2">
-                                    <p className=" bg-orange-500 py-2 text-center rounded-md">Lets Talk</p>
+                                    <p className=" bg-orange-500 py-6 text-center rounded-md">Lets Talk</p>
                                 </div>
                                 <div className="w-full md:w-1/2">
-                                    <p className="text-black">About Our<br /> Amazing</p>
+                                    <p className="text-black text-md">About Our<br /> Amazing</p>
                                 </div>
                             </div>
 
